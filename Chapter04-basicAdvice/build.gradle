@@ -3,7 +3,7 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 
 jar {
-    baseName = 'performanceWithAudience'
+    baseName = 'basicAdvice'
     version =  '0.0.1-SNAPSHOT'
 }
 
